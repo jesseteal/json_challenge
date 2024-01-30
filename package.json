@@ -1,0 +1,22 @@
+{
+  "name": "json",
+  "version": "1.0.0",
+  "description": "code challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesseteal/json_challenge.git"
+  },
+  "author": "Jesse Teal <jesseteal@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jesseteal/json_challenge/issues"
+  },
+  "homepage": "https://github.com/jesseteal/json_challenge#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
